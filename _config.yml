@@ -9,9 +9,9 @@
 title: James Melsom Development & Design
 email: info@jamesmelsom.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is my aewsome description for my site.
+  This is my awesome description for my site.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ywww.jamesmelsom.com" # the base hostname & protocol for your site
+url: "http://www.jamesmelsom.com" # the base hostname & protocol for your site
 twitter_username: FenixHero
 github_username:  JMelsom
 
